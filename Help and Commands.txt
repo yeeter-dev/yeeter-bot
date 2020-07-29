@@ -111,18 +111,11 @@ Do this Command to let somebody donate you money
 Usage: *dono
 
 ------------------------------------------------------------------------------------
-> Kill command
+> Hack command
 
-Kill you or a server member! To earn or lose Money !PAY ATTENTION!
+Hack something cool or a server member! To earn Money !ANTI HACK ITEM COMMING SOON...!
 
-Usage: *kill / *kill @member / *kill <member_id>
-
-------------------------------------------------------------------------------------
-> Joke command
-
-Tell a Joke to the Server Members and earn Money
-
-Usage: *joke
+Usage: *hack / *hack @member / *hack <member_id>
 
 ------------------------------------------------------------------------------------
 
