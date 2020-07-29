@@ -13,4 +13,4 @@ Look in the Commands and Help File for Infos and more!
 
 
 
-Invite? =  https://bit.ly/2D7eb3I [Link not working? Go on my Server and invite The bot! = https://discord.gg/b7F2uJY
+Invite? =  https://bit.ly/2D7eb3I [Link not working? Go on my Server and invite The bot! = Yeeter Dev#8426
