@@ -1,0 +1,141 @@
+#Here you can see the Bot Commands!
+
+
+Prefix = [*]
+
+
+> Status command:
+
+Show the currently Bot Status!
+
+Usage: *status
+
+------------------------------------------------------------------------------------
+
+> Info command
+
+Shows a little Text about the Bot
+
+Usage: *info
+
+------------------------------------------------------------------------------------
+
+> Commands command
+
+Shows the Important Commands of the Bot
+
+Usage: *commands / *cmds
+
+------------------------------------------------------------------------------------
+
+> Me command
+
+Shows Your Nickname / Name on the Server
+
+Usage: *me
+
+------------------------------------------------------------------------------------
+> Yeet command
+
+Test it
+
+Usage: *yeet
+
+------------------------------------------------------------------------------------
+> Yeetme command
+
+you can test it if you want
+
+Usage: *yeetme
+
+------------------------------------------------------------------------------------
+> Version / Changelog command
+
+Shows some extra Infos
+
+Usage: *version / *changelog
+
+------------------------------------------------------------------------------------
+> Thanos command
+
+Thats an god Command! You can try it but... 
+
+Usage: *thanos
+
+------------------------------------------------------------------------------------
+
+====================================================================================
+
+#MONEY STUFF [SHOP COMMING SOON]
+
+
+> Rob command
+
+You can robber an Jewler with Diamonds! [SHOP COMMING SOON]
+
+Usage: *rob
+
+------------------------------------------------------------------------------------
+> Money command
+
+Shows your currently wallet [SHOP COMMING SOON]
+
+Usage: *money
+
+------------------------------------------------------------------------------------
+> Daily command
+
+Every day you can make this command and get an Money bonus 
+
+Usage: *daily
+
+------------------------------------------------------------------------------------
+> Fish command
+
+Throw your angel rute in the water and get your fish to sell it for money
+
+Usage: *fish
+
+------------------------------------------------------------------------------------
+> Joke command
+
+Tell a Joke to the Server Members and earn Money
+
+Usage: *joke
+
+------------------------------------------------------------------------------------
+> Donation command
+
+Do this Command to let somebody donate you money
+
+Usage: *dono
+
+------------------------------------------------------------------------------------
+> Kill command
+
+Kill you or a server member! To earn or lose Money !PAY ATTENTION!
+
+Usage: *kill / *kill @member / *kill <member_id>
+
+------------------------------------------------------------------------------------
+> Joke command
+
+Tell a Joke to the Server Members and earn Money
+
+Usage: *joke
+
+------------------------------------------------------------------------------------
+
+====================================================================================
+
+#SECRETS 
+
+The bot has every Week 2-5 secrets Commands!
+If you type the right word you earn an little money boost!
+
+BUT PAY ATTENTION! THERE ARE ALSO BAD SECRETS THAT STEEL YOUR MONEY!
+
+
+Usage: Type the Secret word in an chat! [Example: example1 = 200$] 
+
+YOU CANT SPAM AND TYPE MULTIPLE WORDS
